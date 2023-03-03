@@ -1,0 +1,4 @@
+[user]
+# Please adapt and uncomment the following lines:
+#       name = mani-16697
+#       email = mani-16697@mani-16697.csez.zohocorpin.com
